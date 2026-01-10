@@ -12,11 +12,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshidubey13&" alt="sakshidubey13" /></p>
 
-## 📈 My GitHub Journey
-![GitHub Streak](https://streak-stats.demolab.com?user=Sakshidubey13&theme=dark)
-## 🚀 My GitHub Journey
-![Sakshi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakshidubey13&theme=react-dark)
-## 📊 GitHub Stats
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakshidubey13&show_icons=true&theme=radical)
-## 🚀 Contribution Graph
+//## 🚀 Contribution Graph
 ![Sakshi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakshidubey13&theme=react-dark)
