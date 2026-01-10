@@ -12,5 +12,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshidubey13&" alt="sakshidubey13" /></p>
 
-//## 🚀 Contribution Graph
-![Sakshi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakshidubey13&theme=react-dark)
