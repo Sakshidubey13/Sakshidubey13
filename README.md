@@ -6,7 +6,7 @@
 
 ```javascript
 const developer = {
-    name: "Vishal More",
+    name: "Sakshi Dubey",
     location: "Surat, Gujarat, IN",
     role: "Student & Aspiring Full Stack Developer",
     
