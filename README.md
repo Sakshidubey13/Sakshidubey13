@@ -268,7 +268,5 @@ JSON         22 mins         ░░░░░░░░░░░░░░░░░
 
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshidubey13&show_icons=true&locale=en" alt="sakshidubey13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshidubey13&" alt="sakshidubey13" /></p>
 
