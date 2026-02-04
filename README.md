@@ -112,7 +112,7 @@ learning_roadmap = {
 print("🎯 Mastering JavaScript & Building Projects")
 ```
 
-### 🎯 2025 Learning Goals
+### 🎯 2026 Learning Goals
 ```c
 #include <stdio.h>
 
