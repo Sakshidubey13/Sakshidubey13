@@ -60,7 +60,7 @@ $ echo $MOTIVATION
 - 🌱 Learning: **Advanced JavaScript concepts & DSA in C**
 - 👯 Looking to: **Collaborate on beginner-friendly projects**
 - 💬 Ask me about: **HTML, CSS, JavaScript, Bootstrap, or C programming**
-- 📫 Reach me at: **sakshiiidubey1393@gmail.com** _(update with your email)_
+- 📫 Reach me at: **sakshiiidubey1393@gmail.com** 
 - ⚡ Fun fact: **I turn coffee into bugs, then fix them with more coffee ☕**
 
 ## 🛠️ Skills & Technologies
