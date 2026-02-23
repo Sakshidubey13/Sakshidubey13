@@ -132,15 +132,18 @@ int main() {
 ```
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishalmore22&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalmore22&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshidubey13&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  
+  <img src="https://streak-stats.demolab.com?user=sakshidubey13&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalmore22&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshidubey13&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 </div>
+
 
 ## 💼 Projects I'm Building
 
