@@ -132,7 +132,6 @@ int main() {
 ```
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakshidubey13&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
@@ -219,12 +218,12 @@ $ git log --oneline --graph --decorate | head -10
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishalmore22&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sakshidubey13&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalmore22&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshidubey13&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
 
 ## 💻 Weekly Coding Time
 
