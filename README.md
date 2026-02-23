@@ -250,6 +250,8 @@ JSON         22 mins         ░░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
+
+![](https://komarev.com/ghpvc/?username=sakshidubey13&color=blueviolet&style=flat-square&label=Profile+Views)
   
 ### 💭 Random Dev Quote
 
