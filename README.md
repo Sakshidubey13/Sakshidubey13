@@ -18,7 +18,7 @@ const developer = {
     ],
     
     completedSkills: {
-        frontend: ["HTML5", "CSS3", "JavaScript Basics", "Bootstrap"],
+        frontend: ["HTML5", "CSS3", "JavaScript Basics", "Bootstrap","React-JS"],
         programming: ["C Language"],
         tools: ["Git", "GitHub", "VS Code"]
     },
