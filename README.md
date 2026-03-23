@@ -216,12 +216,12 @@ $ git log --oneline --graph --decorate | head -10
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshidubey13&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sakshidubey13&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshidubey13&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshidubey13&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
 
 ## 💻 Weekly Coding Time
 
@@ -249,7 +249,7 @@ JSON         22 mins         ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=sakshidubey13&color=blueviolet&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Sakshidubey13&color=blueviolet&style=flat-square&label=Profile+Views)
   
 ### 💭 Random Dev Quote
 
