@@ -227,6 +227,7 @@ $ git log --oneline --graph --decorate | head -10
 
 <!--START_SECTION:waka-->
 ```text
+
 JavaScript   10 hrs 30 mins  ████████████░░░░░░░░░░░░   45.2%
 HTML         6 hrs 20 mins   ███████░░░░░░░░░░░░░░░░░   27.3%
 CSS          4 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░   20.5%
@@ -261,7 +262,7 @@ JSON         22 mins         ░░░░░░░░░░░░░░░░░
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Vishalmore22&color=blueviolet&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Sakshidubey1393&color=blueviolet&style=flat-square&label=Profile+Views)
 
 **"The expert in anything was once a beginner."** - Helen Hayes
 
