@@ -1,13 +1,13 @@
-.<# Hey, I'm  Sakshi Dubey👨‍💻
+# 👋 Hey, I'm Sakshi Dubey👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Aspiring+Full+Stack+Developer+%F0%9F%9A%80;Learning+One+Line+at+a+Time;HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Aspiring+Full+Stack+Developer+🚀;Learning+One+Line+at+a+Time;HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap" alt="Typing SVG" />
 </div>
 
 ```javascript
 const developer = {
     name: "Sakshi Dubey",
-    location: "Surat, Gujarat, IN",
+    location: "Gujarat, India",
     role: "Student & Aspiring Full Stack Developer",
     
     currentlyLearning: [
@@ -18,7 +18,7 @@ const developer = {
     ],
     
     completedSkills: {
-        frontend: ["HTML5", "CSS3", "JavaScript Basics", "Bootstrap","React-JS"],
+        frontend: ["HTML5", "CSS3", "JavaScript Basics", "Bootstrap", "React"],
         programming: ["C Language"],
         tools: ["Git", "GitHub", "VS Code"]
     },
@@ -39,6 +39,8 @@ const developer = {
 console.log(developer.dailyRoutine());
 ```
 
+---
+
 ## 🎯 About Me
 
 ```bash
@@ -54,18 +56,23 @@ $ echo $MOTIVATION
 "Every expert was once a beginner. Keep coding, keep learning! 💪"
 ```
 
+---
+
 ## 🚀 My Learning Journey
 
-- 🔭 Currently working on: **JavaScript projects and improving problem-solving skills**
-- 🌱 Learning: **Advanced JavaScript concepts & DSA in C**
-- 👯 Looking to: **Collaborate on beginner-friendly projects**
-- 💬 Ask me about: **HTML, CSS, JavaScript, Bootstrap, or C programming**
-- 📫 Reach me at: **sakshiiidubey1393@gmail.com** 
-- ⚡ Fun fact: **I turn coffee into bugs, then fix them with more coffee ☕**
+* 🔭 Currently working on: **JavaScript projects and improving problem-solving skills**
+* 🌱 Learning: **Advanced JavaScript concepts & DSA in C**
+* 👯 Looking to: **Collaborate on beginner-friendly projects**
+* 💬 Ask me about: **HTML, CSS, JavaScript, Bootstrap, or C programming**
+* 📫 Reach me at: **[sakshiiidubey1393@gmail.com](mailto:sakshiiidubey1393@gmail.com)**
+* ⚡ Fun fact: **I turn coffee into bugs, then fix them with more coffee ☕**
+
+---
 
 ## 🛠️ Skills & Technologies
 
 ### ✅ Currently Know
+
 ```javascript
 const skills = {
     languages: {
@@ -83,7 +90,10 @@ const skills = {
 };
 ```
 
+---
+
 ### 📚 Currently Learning
+
 ```python
 learning_roadmap = {
     "Phase 1 - Strengthen Foundation": [
@@ -108,11 +118,13 @@ learning_roadmap = {
     ]
 }
 
-# Current Focus
 print("🎯 Mastering JavaScript & Building Projects")
 ```
 
+---
+
 ### 🎯 2026 Learning Goals
+
 ```c
 #include <stdio.h>
 
@@ -122,25 +134,34 @@ int main() {
         "Build 10 projects with HTML, CSS & JavaScript",
         "Learn React.js and build 3 React projects",
         "Start learning Backend with Node.js",
-        "Contribute to 1-2 open source projects",
+        "Contribute to open source projects",
         "Build a full-stack portfolio website"
     };
     
-    printf("Let's make 2025 count! 🚀\n");
+    printf("Let's make 2026 count! 🚀\n");
     return 0;
 }
 ```
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  
-  <img src="https://streak-stats.demolab.com?user=sakshidubey13&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sakshidubey13&show_icons=true&theme=radical&hide_border=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=sakshidubey13&theme=radical&hide_border=true" height="170"/>
+
 </div>
 
+---
 
+## 📈 Contribution Graph
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshidubey13&theme=radical&hide_border=true" width="100%"/>
+
+---
 
 ## 💼 Projects I'm Building
 
@@ -149,8 +170,7 @@ int main() {
 │ 🌐 Project 1: Personal Portfolio Website                   │
 ├─────────────────────────────────────────────────────────────┤
 │ Stack: HTML5 + CSS3 + JavaScript + Bootstrap               │
-│ Features: Responsive design, smooth animations,            │
-│          project showcase, contact form                     │
+│ Features: Responsive design, smooth animations             │
 │ Status: 🚧 In Progress                                      │
 └─────────────────────────────────────────────────────────────┘
 
@@ -158,18 +178,20 @@ int main() {
 │ 🎮 Project 2: Interactive Landing Pages                    │
 ├─────────────────────────────────────────────────────────────┤
 │ Stack: HTML + CSS + JavaScript                             │
-│ Features: Modern UI, CSS animations, form validation       │
+│ Features: Modern UI, CSS animations                        │
 │ Status: ✅ Completed                                        │
 └─────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────┐
 │ 📝 Project 3: To-Do List App                               │
 ├─────────────────────────────────────────────────────────────┤
-│ Stack: HTML + CSS + JavaScript (Vanilla JS)                │
-│ Features: CRUD operations, local storage, task filtering   │
+│ Stack: JavaScript                                          │
+│ Features: CRUD operations, local storage                   │
 │ Status: 📅 Planned                                          │
 └─────────────────────────────────────────────────────────────┘
 ```
+
+---
 
 ## 🎓 Learning Resources I Use
 
@@ -177,72 +199,41 @@ int main() {
 const learningResources = {
     platforms: [
         "freeCodeCamp",
-        "YouTube (Web Dev Simplified, Traversy Media)",
+        "YouTube",
         "MDN Web Docs",
         "W3Schools",
         "JavaScript.info"
     ],
     practice: [
         "Coding Challenges",
-        "Building Small Projects",
-        "Reading Others' Code on GitHub"
+        "Building Projects",
+        "Reading Code on GitHub"
     ],
     community: [
         "GitHub",
         "Stack Overflow",
-        "Dev.to",
-        "Reddit (r/learnprogramming)"
+        "Dev.to"
     ]
 };
 ```
 
-## 🔥 Recent Coding Activity
-
-```bash
-$ git log --oneline --graph --decorate | head -10
-
-* f7a9c42 (HEAD -> main) feat: Added responsive navbar with hamburger menu
-* e6b8d31 style: Improved CSS layout with flexbox
-* d5c7a29 fix: Fixed form validation bugs in contact page
-* c4b6e18 feat: Created interactive image gallery with lightbox
-* b3a5d07 docs: Added README for portfolio project
-* a2c4f96 feat: Built calculator app with JavaScript
-* 91d3e85 style: Implemented dark mode toggle feature
-* 80c2d74 fix: Resolved mobile responsiveness issues
-* 7f1b9c3 feat: Added smooth scroll animation
-* 6e0a8b2 chore: Initial commit - portfolio structure
-```
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sakshidubey13&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sakshidubey13&theme=radical&no-frame=true&margin-w=4&row=1"/>
 </div>
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshidubey13&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
-
-## 💻 Weekly Coding Time
-
-<!--START_SECTION:waka-->
-```text
-
-JavaScript   10 hrs 30 mins  ████████████░░░░░░░░░░░░   45.2%
-HTML         6 hrs 20 mins   ███████░░░░░░░░░░░░░░░░░   27.3%
-CSS          4 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░   20.5%
-C            1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░    5.4%
-JSON         22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░    1.6%
-```
-<!--END_SECTION:waka-->
+---
 
 ## 🤝 Connect With Me
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-dubey-7034bb381/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/home?lang=en)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshiiidubey1393@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sakshi-dubey-7034bb381/)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge\&logo=x)](https://x.com/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:sakshiiidubey1393@gmail.com)
 
 </div>
 
@@ -250,25 +241,10 @@ JSON         22 mins         ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Sakshidubey13&color=blueviolet&style=flat-square&label=Profile+Views)
-  
-### 💭 Random Dev Quote
+![](https://komarev.com/ghpvc/?username=sakshidubey13\&color=blueviolet\&style=flat-square\&label=Profile+Views)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**"The expert in anything was once a beginner."**
 
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-![](https://komarev.com/ghpvc/?username=Sakshidubey1393&color=blueviolet&style=flat-square&label=Profile+Views)
-
-**"The expert in anything was once a beginner."** - Helen Hayes
-
-**💡 Every line of code is a step forward!** 
+💡 Every line of code is a step forward!
 
 </div>
-
-
-
