@@ -224,7 +224,7 @@ const learningResources = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sakshi-dubey-7034bb381/)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge\&logo=x)](https://x.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge\&logo=x)](https://x.com/SakshiDubey1304)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:sakshiiidubey1393@gmail.com)
 
 </div>
