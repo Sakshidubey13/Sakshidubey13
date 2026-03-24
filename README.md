@@ -219,14 +219,6 @@ const learningResources = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshidubey13&theme=radical&no-frame=true&margin-w=4&row=1"/>
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
