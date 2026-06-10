@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sakshi Dubey👨‍💻
+Dr# 👋 Hey, I'm Sakshi Dubey👨‍💻
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Aspiring+Full+Stack+Developer+🚀;Learning+One+Line+at+a+Time;HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap" alt="Typing SVG" />
@@ -11,7 +11,7 @@ const developer = {
     role: "Student & Aspiring Full Stack Developer",
     
     currentlyLearning: [
-        "JavaScript (In Progress)",
+        "JavaScript (In Prog",
         "React.js",
         "Node.js",
         "Building Real Projects"
