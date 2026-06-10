@@ -11,7 +11,7 @@ const developer = {
     role: "Student & Aspiring Full Stack Developer",
     
     currentlyLearning: [
-        "JavaScript ( ",
+        "JavaScript ",
         "React.js",
         "Node.js",
         "Building Real Projects"
