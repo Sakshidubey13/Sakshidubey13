@@ -13,7 +13,7 @@ const developer = {
     currentlyLearning: [
         "JavaScript (In Progress)",
         "React.js",
-        "Node.js (Coming Soon)",
+        "Node.js",
         "Building Real Projects"
     ],
     
