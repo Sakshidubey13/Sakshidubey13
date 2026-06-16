@@ -150,18 +150,13 @@ int main() {
 
 ---
 
-
-Contribution Graph
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshidubey13&theme=radical&hide_border=true" width="100%"/> -->
-
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshidubey13&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" />
 </p>
+
+
 ## 💼 Projects I'm Building
 
 ```bash
@@ -231,7 +226,7 @@ const learningResources = {
 ---
 
 <div align="center">
-
+![](https://komarev.com/ghpvc/?username=sakshidubey13\&color=blueviolet\&style=flat-square\&label=Profile+Views)
 ![](https://komarev.com/ghpvc/?username=sakshidubey13\&color=blueviolet\&style=flat-square\&label=Profile+Views)
 
 **"The expert in anything was once a beginner."**
