@@ -158,11 +158,12 @@ int main() {
 ---
 
 ## 📈 Contribution Graph
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshidubey13&theme=tokyo-night&hide_border=true" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshidubey13&theme=radical&hide_border=true" width="100%"/>
 
 ---
-
+## 💫GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=sakshidubey13&theme=radical&no-frame=true&margin-w=15" />
 ## 💼 Projects I'm Building
 
 ```bash
