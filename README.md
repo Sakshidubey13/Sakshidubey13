@@ -161,11 +161,10 @@ int main() {
 <p align="center">
 <img src="https://raw.githubusercontent.com/sakshidubey13/sakshidubey13/output/github-contribution-grid-snake.svg" />
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshidubey13&theme=tokyo-night&hide_border=true"  width="100%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshidubey13&theme=tokyo-night&hide_border=true"  width="100%" /> -->
 
 ---
-## 💫GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=sakshidubey13&theme=radical&no-frame=true&margin-w=15" />
+
 ## 💼 Projects I'm Building
 
 ```bash
