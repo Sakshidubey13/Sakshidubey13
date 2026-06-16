@@ -145,23 +145,7 @@ int main() {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sakshidubey13&show_icons=true&theme=radical&hide_border=true" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=sakshidubey13&theme=radical&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-<img src="https://raw.githubusercontent.com/sakshidubey13/sakshidubey13/output/github-contribution-grid-snake.svg" />
-</p>
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshidubey13&theme=tokyo-night&hide_border=true"  width="100%" /> -->
+## 📊 GitHub Stats <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sakshidubey13&show_icons=true&theme=radical&hide_border=true" height="170"/> <img src="https://streak-stats.demolab.com?user=sakshidubey13&theme=radical&hide_border=true" height="170"/> </div> --- ## 📈 Contribution Graph <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshidubey13&theme=radical&hide_border=true" width="100%"/> ---
 
 ---
 
