@@ -226,8 +226,6 @@ const learningResources = {
 ---
 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=sakshidubey13\&color=blueviolet\&style=flat-square\&label=Profile+Views)
-![](https://komarev.com/ghpvc/?username=sakshidubey13\&color=blueviolet\&style=flat-square\&label=Profile+Views)
 
 **"The expert in anything was once a beginner."**
 
